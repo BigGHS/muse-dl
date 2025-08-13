@@ -6,3 +6,4 @@
 *.pdf
 *.o
 muse-dl-static*
+.DS_Store
